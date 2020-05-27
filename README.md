@@ -2,4 +2,4 @@
 git_intro_repo
 
 
-# Automation developer engineer @ Imperva
+# Automation developer engineer @ Akamai
